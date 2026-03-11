@@ -1,0 +1,46 @@
+MASTER SERVICE AGREEMENT
+
+Effective Date:
+This agreement starts on 1 January 2024.
+
+Parties:
+The agreement is between AlphaTech Solutions Pvt. Ltd. (Service Provider) and BetaCorp Enterprises Ltd. (Client).
+
+Scope of Services:
+The Service Provider will provide software consulting and support services as described in individual Statements of Work signed by both parties.
+
+Contract Duration:
+This agreement will remain valid for a period of three years from the effective date, unless it is terminated earlier.
+
+Termination for Convenience:
+Either party may terminate this agreement for convenience by providing sixty days written notice to the other party.
+
+Termination for Cause:
+Either party may terminate this agreement immediately if the other party commits a material breach and fails to correct the breach within thirty days after receiving written notice.
+
+Effect of Termination:
+After termination, the Client must pay all outstanding fees for services already delivered by the Service Provider.
+
+Payment Terms:
+The Client must pay all invoices within thirty days from the date of invoice receipt.
+
+Confidentiality:
+Both parties must protect each other’s confidential information and must not share it with any third party without prior written permission.
+
+Confidentiality Duration:
+The confidentiality obligations will continue for five years after the agreement ends.
+
+Data Protection:
+Both parties must comply with applicable data protection laws including GDPR and local regulations.
+
+Limitation of Liability:
+Neither party will be responsible for indirect or consequential damages. The total liability of either party will not exceed the fees paid during the previous twelve months.
+
+Governing Law:
+This agreement is governed by the laws of India.
+
+Dispute Resolution:
+Any dispute arising under this agreement will be resolved through arbitration in Bengaluru, India.
+
+Amendments:
+Any changes to this agreement must be made in writing and signed by authorized representatives of both parties.
