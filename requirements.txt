@@ -1,0 +1,43 @@
+# Shared dependencies for Generative AI for Developers Workshop
+# Install with: pip install -r requirements.txt
+
+# ===================
+# Core LLM Libraries
+# ===================
+python-dotenv
+
+# ===================
+# Day 1: Prompt Engineering Labs
+# (Zero_Shot_Few_Shot_Chain_of_Thought_OpenAI.ipynb)
+# (Prompt_Engineering_OpenAI.ipynb)
+# ===================
+# No additional deps beyond openai + python-dotenv
+
+# ===================
+# Day 2: RAG Lab
+# (RAG_with_OpenAI_Fixed.ipynb)
+# ===================
+faiss-cpu
+scikit-learn
+numpy
+
+# ===================
+# Day 2: Chatbot Lab
+# (Chatbot_with_OpenAI_Fixed.ipynb)
+# ===================
+# No additional deps beyond openai + python-dotenv
+
+# ===================
+# Day 2: MCP Server Project
+# (PROJECTS/MCP-SERVER/)
+# ===================
+mcp[cli]
+
+# ===================
+# Day 2: AI Agent Project
+# (PROJECTS/AI-AGENT/)
+# ===================
+phidata
+groq
+python-docx
+yfinance
