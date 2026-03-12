@@ -15,6 +15,28 @@ python --version
 
 If Python is not installed yet, download it from [python.org](https://www.python.org/). Try installing Python 3.14.3
 
+## Optional: Install uv
+
+`uv` is a fast Python package and environment manager. You can use it alongside the standard Python setup in this course.
+
+Install `uv`:
+
+**Mac / Linux**
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+**Windows (PowerShell)**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+Verify that it works:
+
+```bash
+uv --version
+```
+
 ## Step 1: Create a Groq Account and API Key
 
 Create your Groq account first so you can use the notebooks and agent examples later without interruption.

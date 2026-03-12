@@ -15,4 +15,5 @@ Hands-on workshop exercises and AI agent implementations.
 |------|-------------|
 | Groq_Hands_On_Workshop.ipynb | Hands-on workshop notebook |
 | 4. Hands-On Workshop - Using Groq.md | Workshop instructions |
+| 5. Hands-On Exercise - Finance Agent with uv.md | Standalone uv-based finance agent exercise |
 | AI-AGENT 2/ | DocuSign AI agent project files |
