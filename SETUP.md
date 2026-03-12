@@ -96,6 +96,19 @@ First upgrade `pip`:
 python -m pip install --upgrade pip
 ```
 
+On Windows, you may also see a notice like this:
+
+```text
+[notice] A new release of pip is available: 24.0 -> 26.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+```
+
+If that happens, you can run:
+
+```powershell
+python.exe -m pip install --upgrade pip
+```
+
 Then install the project dependencies:
 
 ```bash
